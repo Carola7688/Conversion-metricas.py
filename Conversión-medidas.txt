@@ -1,0 +1,32 @@
+-----------------------
+Problemas
+"La compañía estadounidense American MegaDesign está realizando un nuevo modelo de muebles 
+basadaos en los planos del famoso diseñador industrial italiano Martín Vaccoto pero
+muchas piezas no han encajado correctamente debido a que los planos están en cm y las
+maquinarias en pulgadas"
+
+-----------------------
+
+Algoritmo
+
+1. Solicitar al usuario que ingrese la medida del diseño en cm
+3. Realizar la conversión de cm a pulgada
+4. Mostrar al usuario el resultado
+
+-----------------------
+
+Pseudocódigo
+
+Inicio:
+
+# Paso 1: Solicitar al usuario que ingrese la medida del diseño en cm
+    Mostar el msj: "Por favor, ingrese la medida de la pieza en cm: "
+
+
+#Paso 2: Realizar la conversión según el cálculo medida_en_pulgada = medida_en_cm/2.54
+
+
+#Paso 3: Mostrar el resultado
+    Mostrar el msj: "La medida en pulgadas de la pieza ingresada es: "
+
+FIn
